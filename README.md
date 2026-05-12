@@ -89,16 +89,11 @@ Highlights:
 
 * Trained Logistic Regression prediction model
 * Mobile application + admin dashboard architecture
-* Backend migration from Flask → FastAPI
 * Data-driven healthcare prediction workflow
 
 ---
 
 # 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hynoras&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hynoras&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hynoras&theme=tokyonight)
 
