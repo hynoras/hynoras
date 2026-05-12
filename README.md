@@ -68,7 +68,7 @@ Currently exploring:
 
 A chemistry-focused fullstack platform for managing experiments, structured compound data, and laboratory workflows.
 
-**Tech Stack:** Next.js, Golang, PostgreSQL, TailwindCSS
+**Tech Stack:** Next.js, Golang, Gin, PostgreSQL, Redis, RabbitMQ
 
 Highlights:
 
@@ -83,7 +83,7 @@ Highlights:
 
 A machine learning-powered application for predicting heart attack likelihood using medical data.
 
-**Tech Stack:** Flutter, Angular, FastAPI, Logistic Regression
+**Tech Stack:** Flutter, FastAPI, Logistic Regression
 
 Highlights:
 
@@ -96,17 +96,17 @@ Highlights:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hynoras&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hynoras&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hynoras&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hynoras&theme=tokyo-night)
 
 ---
 
