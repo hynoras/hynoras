@@ -79,6 +79,22 @@ Highlights:
 
 ---
 
+## 🎓 Education Management Platform
+
+A fullstack education management system built with separate React and Spring Boot applications, focused on handling educational workflows and backend-driven business logic.
+
+**Tech Stack:** React, Spring Boot, Java, REST API
+
+Highlights:
+
+* Built frontend and backend as separate applications
+* Developed RESTful APIs using Spring Boot
+* Implemented frontend integration with backend services
+* Structured project organization for scalable feature development
+* Explored enterprise-oriented backend architecture patterns
+
+---
+
 ## ❤️ Heart Attack Detection
 
 A machine learning-powered application for predicting heart attack likelihood using medical data.
